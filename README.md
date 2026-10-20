@@ -38,4 +38,3 @@ Model dan metrik diimplementasikan sendiri dengan NumPy. scikit-learn hanya dipa
 ### Bonus – scikit-learn
 - Linear Regression: identik dengan implementasi sendiri.
 - Logistic Regression: koefisien berbeda karena scikit-learn memakai regularisasi L2 (C=1) secara default.
-# UTS-Mechine-Learning
